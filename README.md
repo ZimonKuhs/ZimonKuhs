@@ -1,7 +1,7 @@
 My name is most definitely Zimon.
 
 My interests have a way of boundlessly creating an ever-unmanageable catalogue of themselves. But they usually fall into things related to a few categories:
-Reading & Writing, Drawing, (excessively heavy) music, Exercise & especially Nutrition. Also, quite evidently, computer science.
+Reading & Writing, Drawing, (excessively heavy) music, Exercise & especially Nutrition. Also, quite evidently, Computer Science, which my degree would strongly indicate.
 
 Am I learning something beyond the uninhibited amassing of knowledge that tags along living just one day longer than yesterday?
 Well, in lieu of mandated learning directions, I'm playing around with this: https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/ .
